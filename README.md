@@ -7,4 +7,8 @@
 
 
 ## Overview of the project
-### project: 
+### project: developing a weather app using html,css and javascript
+
+### objective: Creating a weather app using HTML, CSS, and JavaScript involves integrating weather data from a weather API, designing the user interface (UI) with CSS, and implementing functionality with JavaScript to fetch and display weather information.
+
+
